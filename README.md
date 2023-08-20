@@ -45,3 +45,8 @@ Technologies Used:
 
 Project Benefits:
 Taskify simplifies task management by offering an organized platform for individual users. Its collaborative potential enhances teamwork and project coordination. The use of Django ensures robust security, and Bootstrap 5 provides a modern, responsive, and user-friendly interface. Whether used individually or collaboratively, Taskify empowers users to stay organized and productive.
+![to do home page](https://github.com/satyaS567/ToDo-Task/assets/66719292/ccdfde1e-b36b-4db6-8b71-11aa46856d11)
+![to do signin page](https://github.com/satyaS567/ToDo-Task/assets/66719292/25e8b810-85e1-4234-8c3b-878ddbea4e8f)
+![to do signup page](https://github.com/satyaS567/ToDo-Task/assets/66719292/235f756c-6bfe-4eaf-8588-e755652d3c60)
+![to do task list](https://github.com/satyaS567/ToDo-Task/assets/66719292/8858962f-b0d6-4314-a88b-c97efd295f49)
+![to do update page](https://github.com/satyaS567/ToDo-Task/assets/66719292/d996e3fd-d711-4351-90cc-9fef271053a6)
